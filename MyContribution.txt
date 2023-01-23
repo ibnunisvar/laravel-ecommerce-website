@@ -1,0 +1,9 @@
+I have created the following parts
+
+1. Page Controller, Cart COntroller, Product Model
+2. Routes
+3. DataBase - ecommerce_cart
+
+4. Display product
+5. Add Product to Cart
+6. Delete Product from Cart
